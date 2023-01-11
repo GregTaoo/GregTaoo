@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Nothing is gonna be said. I just wanna tell you: 
+Nothing gonna be said. I just wanna tell you: 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gregtaoo)](https://github.com/anuraghazra/github-readme-stats)
 
