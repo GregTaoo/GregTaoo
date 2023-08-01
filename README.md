@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'M KIND OF SUBBISH
+I'M KIND OF RUBBISH
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gregtaoo)](https://github.com/anuraghazra/github-readme-stats)
 
