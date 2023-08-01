@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Nothing gonna be said. I just wanna tell you: 
+I'M KIND OF SUBBISH
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gregtaoo)](https://github.com/anuraghazra/github-readme-stats)
 
