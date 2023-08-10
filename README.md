@@ -1,6 +1,4 @@
-### Hi there 👋
-
-I'M KIND OF RUBBISH
+Backend only
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gregtaoo)](https://github.com/anuraghazra/github-readme-stats)
 
