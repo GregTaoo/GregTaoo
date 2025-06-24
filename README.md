@@ -2,7 +2,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,java,md,php,py,c,cpp,cs)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=git,gradle,react,flask,flutter,docker,vercel)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,gradle,react,flask,flutter,docker,vercel)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,clion,pycharm,idea,webstorm,phpstorm)](https://skillicons.dev)
 
