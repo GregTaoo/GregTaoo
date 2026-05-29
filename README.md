@@ -8,6 +8,8 @@
 
 [![My Skills](https://skillicons.dev/icons?i=windows,ubuntu,arch,nix)](https://skillicons.dev)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gregtaoo)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GregTaoo&show_icons=true&theme=transparent&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=gregtaoo&hide=stylus,pug,perl,shell&langs_count=6&card_width=400)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GregTaoo&layout=compact&hide=stylus,pug,perl,shell&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
+![Snake animation](https://raw.githubusercontent.com/GregTaoo/GregTaoo/output/github-contribution-grid-snake.svg)
